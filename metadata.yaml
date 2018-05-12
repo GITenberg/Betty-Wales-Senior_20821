@@ -1,0 +1,37 @@
+_repo: Betty-Wales-Senior_20821
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Nagel, Eva M.
+    alias: Nagel, E. M. (Eva M.)
+    gutenberg_agent_id: '37135'
+    url: http://www.gutenberg.org/2009/agents/37135
+covers:
+- cover_type: archival
+  image_path: 20821-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dunton, Edith K. (Edith Kellogg)
+    aliases:
+    - Dunton, Edith Kellogg
+    - Warde, Margaret
+    birthdate: 1875
+    gutenberg_agent_id: '35189'
+    url: http://www.gutenberg.org/2009/agents/35189
+description: ''
+gutenberg_issued: '2007-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20821'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wales, Betty (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Women college students -- Juvenile fiction'
+- !lcsh 'Universities and colleges -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcc 'PZ'
+title: Betty Wales, Senior
+url: http://www.gutenberg.org/ebooks/20821
